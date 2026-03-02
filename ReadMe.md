@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm Ntokozo Khanyile 👋<br><br>🎓 B ICT in Internet of Things Graduate, with a passion for Software/ML Engineering focusing on building impactful systems  <br>💻 Full-stack developer (PostgreSQL, backend systems, mobile-first web apps)  <br>🌍 Passionate about using technology to solve real problems in education and communities  <br><br>Currently building:<br>- 📚 A modern university application support platform for Grade 12 learners<br>- 🛠 Admin dashboards and scoring engines<br>- 🔐 Secure backend systems with proper environment management<br><br>I believe technology should be accessible, scalable, and meaningful.<br><br>Let’s build solutions that matter.
+## Hi, I'm Ntokozo Khanyile 👋<br><br>🎓 B ICT Internet of Things Graduate, with a passion for Software/ML Engineering focusing on building impactful systems  <br>💻 Full-stack developer (PostgreSQL, backend systems, mobile-first web apps)  <br>🌍 Passionate about using technology to solve real problems in education and communities  <br><br>Currently building:<br>- 📚 A modern university application support platform for Grade 12 learners<br>- 🛠 Admin dashboards and scoring engines<br>- 🔐 Secure backend systems with proper environment management<br><br>I believe technology should be accessible, scalable, and meaningful.<br><br>Let’s build solutions that matter.
 
 
 ## 🌐 Socials:
